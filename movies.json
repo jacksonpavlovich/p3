@@ -1,0 +1,46 @@
+[
+      {
+            "title": "The Shawshank Redemption",
+            "iscore": 9.3,
+            "rating": "R",
+            "runtime": 142,
+            "released": [1994, 10, 14],
+            "country": "USA",
+            "posters": ["img/shawshank.jpg", "img/shawshank2.jpg", "img/shawshank3.jpg"],
+            "imdb": "http://www.imdb.com/title/tt0111161",
+            "website": "https://www.facebook.com/ShawshankRedemptionFilm",
+            "likes": 1021,
+            "dislikes": 122,
+            "posterindex": 0
+      },
+      {
+            "title": "The Breakfast Club",
+            "iscore": 9.4,
+            "rating": "R",
+            "runtime": 97,
+            "released": [1985, 2, 15],
+            "country": "USA",
+            "posters": ["img/breakfastclub.jpg", "img/breakfastclub2.jpg"],
+            "imdb": "https://www.imdb.com/title/tt0088847/",
+            "website": "https://www.facebook.com/TheBreakfastClubMovie/",
+            "likes": 1,200,
+            "dislikes": 204,
+            "posterindex": 0
+      },
+
+      {
+            "title": "The Dark Knight",
+            "iscore": 8.9,
+            "rating": "PG-13",
+            "runtime": 152,
+            "released": [2008, 7, 18],
+            "country": "USA",
+            "posters": ["img/darkknight.jpg", "img/darkknight2.jpg"],
+            "imdb": "http://www.imdb.com/title/tt0468569",
+            "website": "http://www.42entertainment.com/work/whysoserious",
+            "likes": 828,
+            "dislikes": 127,
+            "posterindex": 0
+      }
+
+]
