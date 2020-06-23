@@ -41,6 +41,80 @@
             "likes": 828,
             "dislikes": 127,
             "posterindex": 0
-      }
+      },
 
+      {
+            "title": "The Dark Knight Rises",
+            "iscore": 8.4,
+            "rating": "PG-13",
+            "runtime": 164,
+            "released": [2012, 7, 20],
+            "country": "USA",
+            "posters": ["img/knightrises.jpg", "img/knightrises2.jpg"],
+            "imdb": "https://www.imdb.com/title/tt1345836/",
+            "website": "https://www.facebook.com/BTDKR3/",
+            "likes": 920,
+            "dislikes": 234,
+            "posterindex": 0
+      },
+
+      {
+            "title": "Inception",
+            "iscore": 8.8,
+            "rating": "PG-13",
+            "runtime": 148,
+            "released": [2008, 7, 18],
+            "country": "USA",
+            "posters": ["img/inception.jpg", "img/inception2.jpg"],
+            "imdb": "https://www.imdb.com/title/tt1375666/",
+            "website": "https://www.facebook.com/inception/?ref=py_c",
+            "likes": 828,
+            "dislikes": 127,
+            "posterindex": 0
+      },
+
+      {
+            "title": "Goodfellas",
+            "iscore": 8.9,
+            "rating": "R",
+            "runtime": 146,
+            "released": [1990, 9, 21],
+            "country": "USA",
+            "posters": ["img/goodfellas.jpg", "img/goodfellas2.jpg"],
+            "imdb": "https://www.imdb.com/title/tt0099685/",
+            "website": "https://www.facebook.com/pages/Goodfellas/103115703061903",
+            "likes": 828,
+            "dislikes": 127,
+            "posterindex": 0
+      },
+
+      {
+            "title": "Mad Max: Fury Road",
+            "iscore": 8.1,
+            "rating": "PG-13",
+            "runtime": 120,
+            "released": [2015, 5, 15],
+            "country": "USA",
+            "posters": ["img/furyroad.jpg", "img/furyroad2.jpg"],
+            "imdb": "https://www.imdb.com/title/tt1392190/",
+            "website": "https://www.facebook.com/MadMaxMovie/",
+            "likes": 902,
+            "dislikes": 200,
+            "posterindex": 0
+      },
+
+      {
+            "title": "The Sixth Sense",
+            "iscore": 8.1,
+            "rating": "PG-13",
+            "runtime": 152,
+            "released": [1999, 8, 06],
+            "country": "USA",
+            "posters": ["img/sense.jpg", "img/sense2.jpg"],
+            "imdb": "https://www.imdb.com/title/tt0167404/",
+            "website": "https://www.facebook.com/pages/category/Community/The-Sixth-Sense-19955026810/",
+            "likes": 1002,
+            "dislikes": 321,
+            "posterindex": 0
+      },
 ]
